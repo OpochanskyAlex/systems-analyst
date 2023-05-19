@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "7adf3bdb0232a4c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "a43650bcc2fccb13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1af51d57c829c74c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "US-010.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "51b60a74b441cfb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "US-020.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10696e21307c7e1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Requirements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d8f0ea058ae9e997",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb326832fc7122e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4e789246c16cbc8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b820c902dec7fb4d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dc93bd7f81d4ac9a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "dfe6706a48b7e49d",
+    "type": "split",
+    "children": [
+      {
+        "id": "759f8681bde149ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49192504f7012b4d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Requirements.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5e3c134964daddac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Requirements.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f1b7976605e281f1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "08e0310fa46e6a9c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Requirements.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "10696e21307c7e1d",
+  "lastOpenFiles": [
+    "US-010.md",
+    "US-021.md",
+    "US-020.md",
+    "Requirements.md",
+    "Untitled.md",
+    "!req-US-010.md",
+    "Untitled"
+  ]
+}
