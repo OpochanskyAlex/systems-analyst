@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "7adf3bdb0232a4c9",
+    "id": "82df31742c511632",
     "type": "split",
     "children": [
       {
-        "id": "fa990bcc1ac56674",
+        "id": "d0d445e9ce4ca75d",
         "type": "tabs",
         "children": [
           {
-            "id": "d60f69467b48844c",
+            "id": "7aeec2ac3480bb16",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Requirements.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,50 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d8f0ea058ae9e997",
+    "id": "78abaefda6264a32",
     "type": "split",
     "children": [
       {
-        "id": "eb326832fc7122e3",
+        "id": "301bea568586785a",
         "type": "tabs",
         "children": [
           {
-            "id": "d4e789246c16cbc8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "US-010.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b820c902dec7fb4d",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": true,
-                "explainSearch": false,
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "f1c373d6eeb7a340",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "4673a033b701d500",
+            "id": "8378b07336e207f2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -76,29 +37,50 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "5ea7a60af8bdeec4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "35059919838d7fe3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 389.5
+    "width": 300
   },
   "right": {
-    "id": "dfe6706a48b7e49d",
+    "id": "43b74c017c0fe47a",
     "type": "split",
     "children": [
       {
-        "id": "759f8681bde149ef",
+        "id": "85bc19cfbb8f900a",
         "type": "tabs",
         "children": [
           {
-            "id": "49192504f7012b4d",
+            "id": "a9847517673a42cd",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Requirements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +92,18 @@
             }
           },
           {
-            "id": "5e3c134964daddac",
+            "id": "eb457541f5789b1b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Requirements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "f1b7976605e281f1",
+            "id": "59b98e2bf8a99c89",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,13 +114,11 @@
             }
           },
           {
-            "id": "08e0310fa46e6a9c",
+            "id": "9ff894d9ebc2ce8c",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Requirements.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,41 +138,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d60f69467b48844c",
+  "active": "7aeec2ac3480bb16",
   "lastOpenFiles": [
-    "ES.canvas",
-    "Requirements.md",
-    "US-300.md",
-    "Diagram.svg.md",
-    "US-000.md",
-    "US-306.md",
-    "US-305.md",
-    "US-304.md",
-    "US-303.md",
-    "US-302.md",
-    "US-160.md",
-    "US-170.md",
-    "US-180.md",
-    "US-190.md",
-    "US-200.md",
-    "US-210.md",
-    "US-220.md",
-    "US-230.md",
-    "US-240.md",
-    "US-250.md",
-    "US-260.md",
-    "US-270.md",
-    "US-280.md",
-    "US-290.md",
-    "US-301.md",
-    "US-150.md",
-    "Diagram.svg",
-    "Untitled Diagram.svg",
-    "Diagram.svg.xml",
-    "Untitled Diagram 1.svg",
-    "Untitled 3.canvas",
-    "Untitled 2.canvas",
-    "Untitled.canvas",
-    "Untitled"
+    "plugins/obsidian-diagrams-net/main.js",
+    "plugins/obsidian-diagrams-net/manifest.json",
+    "plugins/obsidian-diagrams-net",
+    "bookmarks.json",
+    "graph.json",
+    "plugins/drawio-obsidian/data.json",
+    "community-plugins.json",
+    "plugins/drawio-obsidian/styles.css",
+    "plugins/drawio-obsidian/main.js",
+    "plugins/drawio-obsidian/manifest.json",
+    "plugins/drawio-obsidian"
   ]
 }
