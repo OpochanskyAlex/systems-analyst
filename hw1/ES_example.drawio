@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net" modified="2023-05-22T16:11:51.850Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="TUBXh_uQ77dx-p_ENY-X" version="21.3.2" type="device">
+  <diagram id="0N_8-3aBfTzcX2Iw5he6" name="Страница 1">
+    <mxGraphModel dx="2074" dy="1156" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1fMSbgt01EthuUcVLbl1-1" value="Менеджеры" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F7F763;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="171" y="72" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1fMSbgt01EthuUcVLbl1-2" value="Добавить тип услуги" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="301" y="72" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1fMSbgt01EthuUcVLbl1-3" value="&lt;u&gt;Добавлен тип услуги&lt;br&gt;US-021&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="431" y="72" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1fMSbgt01EthuUcVLbl1-4" value="Тип услуг. примерная стоимость" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="41" y="72" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

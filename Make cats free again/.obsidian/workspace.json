@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a43650bcc2fccb13",
+        "id": "9e9f40d48db303c3",
         "type": "tabs",
         "children": [
           {
-            "id": "1af51d57c829c74c",
+            "id": "3ad6ad6a9fd50af1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "US-010.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "51b60a74b441cfb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "US-020.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10696e21307c7e1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Requirements.md",
+                "file": "System description.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "US-020.md",
+                "file": "System description.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "US-020.md",
+                "file": "System description.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "US-020.md"
+                "file": "System description.md"
               }
             }
           }
@@ -171,9 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "51b60a74b441cfb9",
+  "active": "3ad6ad6a9fd50af1",
   "lastOpenFiles": [
+    "event storming.drawio.svg",
+    "event storming.drawio.svg.md",
+    "System description.md",
     "Requirements.md",
+    "event storming.drawio - Copy.svg",
+    "ES.canvas",
+    "US-010.md",
+    "US-020.md",
+    "event storming.drawio",
+    "data_model.drawio 1.svg",
+    "data_model.drawio.svg",
+    "Solution.drawio.svg",
     "US-306.md",
     "US-305.md",
     "US-304.md",
@@ -194,12 +180,6 @@
     "US-190.md",
     "US-180.md",
     "US-170.md",
-    "US-160.md",
-    "US-150.md",
-    "US-140.md",
-    "US-130.md",
-    "US-120.md",
-    "ES.canvas",
     "Untitled"
   ]
 }
